@@ -1,5 +1,7 @@
 # Sample-Password-Generator
-
+	
+	@author pratya yeekhaday
+	
 	public class PasswordGenerator {
 
 		private static final String DIGITS = "0123456789";
